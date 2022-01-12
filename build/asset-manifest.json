@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1362cd88.css",
+    "main.js": "/static/js/main.bb9bdd54.js",
+    "static/js/787.edd59a96.chunk.js": "/static/js/787.edd59a96.chunk.js",
+    "static/media/img_1_4.jpg": "/static/media/img_1_4.fbbb75089d29b384c9e8.jpg",
+    "static/media/eco-friend-pic.jpg": "/static/media/eco-friend-pic.ccd22f0952a1c870df80.jpg",
+    "static/media/img_1_7.jpg": "/static/media/img_1_7.ec6846fbc77d5c9a66ad.jpg",
+    "static/media/deli-food-pic.jpg": "/static/media/deli-food-pic.96443aa21cbd875ff9ed.jpg",
+    "static/media/img_1_3.jpg": "/static/media/img_1_3.c5b2f5cee75207611367.jpg",
+    "static/media/img_1_9.jpg": "/static/media/img_1_9.ee0531543462f6ebfe7d.jpg",
+    "static/media/img_1_8.jpg": "/static/media/img_1_8.64b0434200039ebaadc8.jpg",
+    "static/media/img_1_1.jpg": "/static/media/img_1_1.a5f87fb633234b1b6287.jpg",
+    "static/media/jumbotron.jpg": "/static/media/jumbotron.174548e9cc84bba8a458.jpg",
+    "static/media/img_1_5.jpg": "/static/media/img_1_5.19021a324e77090031cc.jpg",
+    "static/media/img_1_2.jpg": "/static/media/img_1_2.4588ca9c8ac399b3c8fc.jpg",
+    "static/media/student-invest-pic.jpg": "/static/media/student-invest-pic.8ac99b0736cd1d2f90e6.jpg",
+    "static/media/profile-pic.JPG": "/static/media/profile-pic.5131bbc701c5dccb8b74.JPG",
+    "static/media/img_1_6.jpg": "/static/media/img_1_6.70a9ee82d56ad64ca4ff.jpg",
+    "index.html": "/index.html",
+    "main.1362cd88.css.map": "/static/css/main.1362cd88.css.map",
+    "main.bb9bdd54.js.map": "/static/js/main.bb9bdd54.js.map",
+    "787.edd59a96.chunk.js.map": "/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1362cd88.css",
+    "static/js/main.bb9bdd54.js"
+  ]
+}
